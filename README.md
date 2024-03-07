@@ -23,7 +23,7 @@ link do curso: [Alura | Git e Github: compartilhando e colaborando em projetos](
 
 ### Comandos do Git
 
-Documentações úteis
+Documentações úteis:
 
 * [📄](https://gist.github.com/leocomelli/2545add34e4fec21ec16) Lista dos comandos
 * [📄](https://www.atlassian.com/br/git/glossary#commands) Explicação dos comandos
