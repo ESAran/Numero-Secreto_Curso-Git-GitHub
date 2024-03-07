@@ -17,6 +17,14 @@ link do curso: [Alura | Git e Github: compartilhando e colaborando em projetos](
 
 ![Static Badge](https://img.shields.io/badge/Git_e_GitHub-grey?logo=github)
 
+`Material disponibilizado pelo curso.`
+
 ---
 
-`Material disponibilizado pelo curso.`
+### Comandos do Git
+
+Documentações úteis
+
+* [📄](https://gist.github.com/leocomelli/2545add34e4fec21ec16) Lista dos comandos
+* [📄](https://www.atlassian.com/br/git/glossary#commands) Explicação dos comandos
+* [📄](https://git-scm.com/doc) Documentação do Git
