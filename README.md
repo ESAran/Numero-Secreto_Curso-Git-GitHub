@@ -14,3 +14,9 @@ Carga horária: **8h**
 * Analise e modifique o histórico de commits de um repositório Git
 
 link do curso: [Alura | Git e Github: compartilhando e colaborando em projetos](https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos "Curso Alura")
+
+![Static Badge](https://img.shields.io/badge/Git_e_GitHub-grey?logo=github)
+
+---
+
+`Material disponibilizado pelo curso.`
