@@ -17,7 +17,7 @@ link do curso: [Alura | Git e Github: compartilhando e colaborando em projetos](
 
 ![Static Badge](https://img.shields.io/badge/Git_e_GitHub-grey?logo=github)
 
-`Material disponibilizado pelo curso.`
+`Material disponibilizado pelo curso, apenas realizado algumas alterações.`
 
 ---
 
