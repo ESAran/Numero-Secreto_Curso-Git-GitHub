@@ -2,7 +2,7 @@
 
 O seguinte repositório faz parte do curso **Git e GitHub: compartilhando e colaborando em projetos** da [Alura](alura.com.br).
 
-Data de conclusão: (data)
+Data de conclusão: 08/03/2023
 
 Carga horária: **8h**
 
